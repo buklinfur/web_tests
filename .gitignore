@@ -1,0 +1,10 @@
+# IDE
+.idea/
+.vscode/
+
+# Node
+node_modules/
+build/
+
+# OS
+.DS_Store
